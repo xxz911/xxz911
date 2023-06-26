@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="https://github.com/xxz911/xxz911/blob/main/managertyping-2.gif?raw=false" width="20%" height="20%" />
 </div>
@@ -12,16 +11,14 @@
   <a href="https://vk.com/id147757568">![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)</a>
 </div> 
 
-
 <div align="center">
   <h1>Приветствую на своем профиле</h1>
 </div>
 
-
 ### Обо мне:
 Я пишу код и развиваюсь как разработчик более 18 месяцев (курсам на Stepic, видеокурсам, книгам, статьям) и практикую свои знания на проектах и фриланс заказах.
 
-Я ищу компанию, которая даст мне возможность начать карьерный путь как Разработчика, в свою очередь я нацелен на длительное сотрудничество и повышение приносимой пользы для компании.
+Я ищу компанию, которая даст мне возможность начать карьерный путь как Python Developer, в свою очередь я нацелен на длительное сотрудничество и повышение приносимой пользы для компании.
 
 ### Стек:
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=47C5FB)
@@ -46,24 +43,5 @@
 ![Ajax](https://img.shields.io/badge/-Ajax-090909?style=for-the-badge&logo=Ajax&logoColor=F8C52C)
 ![Semantic](https://img.shields.io/badge/-Semantic-090909?style=for-the-badge&logo=Semantic&logoColor=E9D54D)
 
-### Фриланс:
-
-<a href="https://github.com/xxz911/web-site__Poyasni_Za_Gistu__">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=xxz911&hide_border=true&repo=web-site__Poyasni_Za_Gistu__&title_color=f90&text_color=f2f3f4&icon_color=a30025&bg_color=3b444b" />
-</a>
-<a href="https://github.com/xxz911/AutoCostsBot">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=xxz911&hide_border=true&repo=AutoCostsBot&title_color=f90&text_color=f2f3f4&icon_color=a30025&bg_color=3b444b" />
-</a>
-
-### Проекты:
-<a href="https://github.com/xxz911/Tasker_FastAPI">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=xxz911&repo=Tasker_FastAPI&hide_border=true&title_color=f90&text_color=f2f3f4&icon_color=a30025&bg_color=3b444b" />
-
-
-
 ## GitHub & LeetCode:
 [![alt-text-1](https://streak-stats.demolab.com?user=xxz911&theme=sunset-gradient&card_width=400)](https://github.com/xxz911) [![alt-text-2](https://leetcode-stats-six.vercel.app/api?username=xxz911&theme=dark&card_width=300)](https://leetcode.com/xxz911/)
-
-
-
-
