@@ -1,4 +1,10 @@
+
+![m]()
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM252YjRkNWplYzAwdTF0cWk1am12M3J4dHBjbm1uMTZ2YzVnbG4wdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gLcUG7QiR0jpMzoNUu/giphy.gif" />
+
 ### Приветствую на моем профиле
+![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM252YjRkNWplYzAwdTF0cWk1am12M3J4dHBjbm1uMTZ2YzVnbG4wdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gLcUG7QiR0jpMzoNUu/giphy.gif)
 ### Обо мне:
 Я пишу код и развиваюсь как разработчик более 18 месяцев (курсам на Stepic, видеокурсам, книгам, статьям) и практикую свои знания на проектах и фриланс заказах.
 
@@ -35,3 +41,4 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/NikkoKoval)
 [![leetcode](https://img.shields.io/badge/-leetcode-090909?style=for-the-badge&logo=leetcode&logoColor=007BB6)](https://leetcode.com/xxz911/)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/id147757568)
+<img src="https://komarev.com/ghpvc/?username=xxz911&style=flat-square&color=blue" alt=""/>
