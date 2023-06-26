@@ -31,7 +31,7 @@
 [![alt-text-1](https://streak-stats.demolab.com?user=xxz911&theme=sunset-gradient&card_width=400)](https://github.com/xxz911) [![alt-text-2](https://leetcode-stats-six.vercel.app/api?username=xxz911&theme=dark&card_width=300)](https://leetcode.com/xxz911/)
 
 
-### Контакты:
+### Ссылки:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/NikkoKoval)
 [![leetcode](https://img.shields.io/badge/-leetcode-090909?style=for-the-badge&logo=leetcode&logoColor=007BB6)](https://leetcode.com/xxz911/)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/id147757568)
