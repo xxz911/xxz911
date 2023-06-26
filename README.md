@@ -27,21 +27,16 @@
 ![Ajax](https://img.shields.io/badge/-Ajax-090909?style=for-the-badge&logo=Ajax&logoColor=F8C52C)
 ![Semantic](https://img.shields.io/badge/-Semantic-090909?style=for-the-badge&logo=Semantic&logoColor=E9D54D)
 
+### GitHub:
+[![GitHub Streak](https://streak-stats.demolab.com?user=xxz911&theme=dark&hide_border=true&locale=ru)](https://git.io/streak-stats)
 
-
-
+### LeetCode:
+[![Xxz911's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=xxz911&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 ### Контакты:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/NikkoKoval)
 [![leetcode](https://img.shields.io/badge/-leetcode-090909?style=for-the-badge&logo=leetcode&logoColor=007BB6)](https://leetcode.com/xxz911/)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/id147757568)
-
-### GitHub статистика:
-[![GitHub Streak](https://streak-stats.demolab.com?user=xxz911&theme=dark&hide_border=true&locale=ru)](https://git.io/streak-stats)
-
-
-### LeetCode статистика:
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=xxz911&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 
 
