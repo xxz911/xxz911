@@ -1,11 +1,19 @@
 
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/2147021/screenshots/4704853/managertyping.gif" width="20%" height="20%" style="border-radius: 50% 50%;"/>
-
+  <img src="https://github.com/xxz911/xxz911/blob/main/managertyping-2.gif?raw=false" width="20%" height="20%" />
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=xxz911&style=flat-square&color=blue" alt=""/>
 </div>
+<div align="center">
+
+  <a href="https://t.me/NikkoKoval">![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)</a>
+  <a href="https://leetcode.com/xxz911/">![leetcode](https://img.shields.io/badge/-leetcode-090909?style=for-the-badge&logo=leetcode&logoColor=007BB6)</a>
+  <a href="https://vk.com/id147757568">![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)</a>
+</div> 
+
+
+
 
 ### Приветствую на моем профиле
 
@@ -41,8 +49,5 @@
 [![alt-text-1](https://streak-stats.demolab.com?user=xxz911&theme=sunset-gradient&card_width=400)](https://github.com/xxz911) [![alt-text-2](https://leetcode-stats-six.vercel.app/api?username=xxz911&theme=dark&card_width=300)](https://leetcode.com/xxz911/)
 
 
-### Ссылки:
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/NikkoKoval)
-[![leetcode](https://img.shields.io/badge/-leetcode-090909?style=for-the-badge&logo=leetcode&logoColor=007BB6)](https://leetcode.com/xxz911/)
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/id147757568)
+
 
